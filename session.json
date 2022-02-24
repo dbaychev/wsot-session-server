@@ -1,0 +1,18 @@
+[
+    {
+        "sessionId":"4444",
+        "customerId":"4"
+    },
+    {
+        "sessionId":"2222",
+        "customerId":"2"
+    },
+    {
+        "sessionId":"3",
+        "customerId":"3"
+    },
+    {
+        "sessionId":"3333",
+        "customerId":"1"
+    }
+]
